@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"src","l":"Function"},{"p":"src","l":"KthRootFinder"},{"p":"src","l":"NewtonApproximation"},{"p":"src","l":"Polynomial"},{"p":"src","l":"Solution"}];updateSearchResults();
